@@ -1,8 +1,0 @@
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\bin\Debug\ImgApp.exe.config
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\bin\Debug\ImgApp.exe
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\bin\Debug\ImgApp.pdb
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\obj\Debug\ImgApp.csproj.AssemblyReference.cache
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\obj\Debug\ImgApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\obj\Debug\ImgApp.exe
-C:\Users\Никита\Desktop\МГТУ Станкин\СЦОИ Лаб1\obj\Debug\ImgApp.pdb
